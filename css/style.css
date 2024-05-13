@@ -1,0 +1,20 @@
+section{
+    justify-content: center;
+   
+    align-items: center;
+    width: 600px;
+    height: 850px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+
+.img{
+    height: 480px;
+    width: 400px;
+    background-image: url(../img/ubi.jpeg);
+    background-size: cover;
+    background-size: 100%;
+}
+ul {
+    list-style-type: none;
+  }
